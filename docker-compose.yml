@@ -1,5 +1,5 @@
 version: '3.5'
-
+name: my-project-name
 services:
   app:
     build:
